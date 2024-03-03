@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Gurka Raju
+- 👀 I’m interested in Web Development ...
+- 🌱 I’m currently studying in IIEST shibpur ...
+- 📫 I'm Quick learner ...
+
+<!---
+Raju-628/Raju-628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
